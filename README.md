@@ -1,5 +1,5 @@
 # pyiron worker
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jan-janssen/pyiron-lammps-h5md/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jan-janssen/pyiron-worker/HEAD)
 
 ## Steps
 * Prepare jobs for submission using the `submitjobs.ipynb` notebook.
