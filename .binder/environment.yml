@@ -4,3 +4,5 @@ dependencies:
 - python
 - pyiron_atomistics
 - lammps
+- pip:
+  - git+https://github.com/pyiron/pyiron_base.git@worker
